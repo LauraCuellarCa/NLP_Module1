@@ -90,6 +90,25 @@ The program will generate text samples using different N-gram sizes, starting wi
 - **Trigrams**: Balance between variety and coherence
 - **Quadgrams**: Most coherent but potentially more repetitive
 
+## Task 6: Human Evaluation Survey
+
+To evaluate the quality of the generated text, a brief survey was conducted with three participants. They were asked to rate and comment on the following bigram-generated text:
+
+> "to be a beast that wants hard vse we are going to his fellow and delight no lesse nobility"
+> "to be demanded of a paire of reechie kisses or padling in your teeth if you call them ophe"
+
+
+### Survey Responses
+
+1. **Rikzim (Roommate)**
+   - "The language definitely has that old-timey Shakespeare vibe with words like 'vse' and 'ophe'. Though the grammar is a bit off, it really reminds me of the romantic monologues from Romeo and Juliet that we read in high school."
+
+2. **Renata (Roommate)**
+   - "I love how poetic it sounds! The combination of 'delight no lesse nobility' feels very Shakespearean, though the flow isn't quite as smooth as actual Shakespeare. Still, I could imagine this being part of a soliloquy."
+
+3. **Zaid (Friend)**
+   - "I would say it captures the emotional tone of shakespeare pretty well. The vocabulary choices are spot-on, but the sentence structure is slightly random."
+
 ## Author
 
 Laura Cuellar
